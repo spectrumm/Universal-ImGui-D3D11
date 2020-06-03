@@ -1,4 +1,4 @@
-This repository is deprecated, here is the new repository: https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook
+yeet
 
 # Universal-ImGui-D3D11-Hook
 
