@@ -54,6 +54,9 @@
     <ClInclude Include="ImGui\stb_truetype.h">
       <Filter>Fichiers sources\ImGui</Filter>
     </ClInclude>
+    <ClInclude Include="MinHook\include\MinHook.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
